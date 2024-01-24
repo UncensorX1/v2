@@ -3,8 +3,8 @@ name: sockssend
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 10 * * *"
-  - cron: "0 15 * * *"
+  - cron: "30 5-19 * * *"
+
   
 jobs:
   job1:
