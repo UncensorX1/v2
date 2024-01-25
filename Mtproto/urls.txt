@@ -1,5 +1,5 @@
-tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsn.0-o-0old.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=188.40.17.92&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=www.theletsome.ir&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
-tg://proxy?server=162.55.220.82&port=8085&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=178.62.194.82&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=artalumin.ir.iahope.com.tarmimmoo.ir.khanehomran.org.daha-tech.com.r_ahamusic.com.paytakhtcctv.ir.kanganmall.ir.imanahmadi.ir.almasshisheh.ir.lahijbazar.ir.azar-team.ir.or_dibe8.com.inoueha.ir.raikashop.ir.jafarknow.ir.toochin.ir.upgrademostanad.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
+tg://proxy?server=8.210.75.74&port=443&secret=ee7dbae739fe8f15cfd243abdee1082c11617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=128.140.60.175&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=shilatchabahar.ir.mqlprogramming.ir.kooroshstudio.ir.graphinfotech.com.moradhaseli.com.e-coo.ir.tazm_inkaran.com.telecomsoft.ir.biamoshaver.ir.khanehdarya.ir.oynet.ir.atinsanatemertat.com.mehdisaghaii.com.pedasco.com.saffron1torbat.com.telephonechi.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=134.122.55.212&port=80&secret=ee6958dc772bcb3bc1f9a431f9dea2fdf47370656564746573742e6e6574
