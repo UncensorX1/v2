@@ -1,5 +1,5 @@
-tg://proxy?server=5.78.84.196&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae7361666972686f74656c2e6e6574
-tg://proxy?server=49.13.76.149&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ
-tg://proxy?server=128.140.101.18&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=msp-g.ir.haditvlive.com.spix.ir.neginc_m_s.i_r.iocv.ir.parisanclinic.ir.smartkadeh.com.novinsalamattaha.ir.cg-key.ir.iran-dent.com.afaridkala.shop.hikvisionmashhad.ir.hekmatstore.ir.namasonnat.ir.bornapardaz.net.tstfoods.ir.pourmoghadam.ir.15khordad.ink&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d
-tg://proxy?server=159.223.249.120&port=443&secret=eeb048637c2aec1be93c478cf00f4e755b7777772e7370656564746573742e6e6574
+tg://proxy?server=www.ns430-ns420.autos&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=144.76.177.203&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=adds8.iran2vip.com&port=443&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=cafebyte.ir.elsapakhsh.com.tls-co.net.m-bk.ir.waterfoundation.org.dapsh.ir.anfas1.org.markazeiranestekhdam.com.rata.ir.hamimco.ir.damzee.com.si_natd.com.lenze.ir.pe_t-han.ir.mrwoodhat_am_ian.com.codpost.ir.sakhtemanshow.ir.sanaico.ir.buffaloshop.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=aras-bazar.ir.sefhdpitchyazd.com.khoderdian.o_nline.ltos.ir.lachinan.ir.emsisfahan.ir.nowsadeh.c_om.dsnmc.ir.rasysco.com.tebnew.ir.khonegishop.com.flower_box.ir.dabinkala.com.bazarehadaf.com.pcmcn.ir.gfrgsup.net.payagenebiotech.d.indianmotorcycle.yachts&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
