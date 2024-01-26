@@ -1,5 +1,5 @@
-tg://proxy?server=188.166.0.100&port=443&secret=ee0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c75706c6f6164626f792e636f6d
-tg://proxy?server=95.217.25.57&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000
-tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.propertymanagerinsider.sbs&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=goloney.ir.chidar.ir.microsoftlab.ir.doranpadcast.ir.asrerayanesh.com.smartkade.com.ladanalavi.com.pmcm.ir.ryanvalve.org.doostanekhub.ir.inobebar.ir.rahekeramat.ir.novininsur.com.belkamoghadam.ir.zenix.ir.chapevaliasr.ir.negar3d.ir.jalanalorgood.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
-tg://proxy?server=www.er0r.lol&port=443&secret=ee000000000000000000000000000000006170706c652e636f6d
+tg://proxy?server=5.78.84.196&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae7361666972686f74656c2e6e6574
+tg://proxy?server=49.13.76.149&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ
+tg://proxy?server=128.140.101.18&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=msp-g.ir.haditvlive.com.spix.ir.neginc_m_s.i_r.iocv.ir.parisanclinic.ir.smartkadeh.com.novinsalamattaha.ir.cg-key.ir.iran-dent.com.afaridkala.shop.hikvisionmashhad.ir.hekmatstore.ir.namasonnat.ir.bornapardaz.net.tstfoods.ir.pourmoghadam.ir.15khordad.ink&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d
+tg://proxy?server=159.223.249.120&port=443&secret=eeb048637c2aec1be93c478cf00f4e755b7777772e7370656564746573742e6e6574
