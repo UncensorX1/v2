@@ -1,5 +1,5 @@
-tg://proxy?server=128.140.87.147&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q
-tg://proxy?server=mojtahedi.org.shs24.ir.myaccounts.ir.mobojanebi.ir.mamoaleman.ir.ariatrader.com.pickupgroup.ir.zoroofeyekbarmasraf.com.nt2i.ir.stop-market.ir.tgstravel.ir.saadeqieh.ir.arna-trading.com.motibonut.com.etkfz.com.gfsd.ir.masomii.com.kermanmotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
-tg://proxy?server=192.95.37.50&port=443&secret=ee6ea63f16082c83dae885959594989704676f6f676c652e636f6d
-tg://proxy?server=188.34.181.250&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=i.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.dcvelocity.website&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
+tg://proxy?server=saa-s.ir.topq.ir.aitinsanat.com.parsamad24.com.leilarezadad.com.unlabelledd.net.shahzadarabi.ir.viaratv.com.ashayerekerman.com.mywallart.ir.khavarestan.ir.ceramshop.ir.beroozfile.ir.szogpc.com.sahabcard.com.ayatfestival.ir.zoroofbar.ir.greenberguar.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=148.251.243.17&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=8.218.131.57&port=443&secret=eed954643f1992b92c46fd7905856a1c59617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=188.40.151.89&port=8770&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=8.218.177.232&port=8443&secret=ee98b77ae56c9fdab3b616981ec7e441f8617a7572652e6d6963726f736f66742e636f6d
