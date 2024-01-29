@@ -1,5 +1,5 @@
-tg://proxy?server=212.69.14.145&port=8080&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d160301020001000100000000000000000000000000000000
-tg://proxy?server=theletsome.ir&port=80&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
-tg://proxy?server=65.109.226.98&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d
-tg://proxy?server=164.92.118.100&port=443&secret=ee9253ce2486a37918c3c3900fbf3550a2636c6f75642e6469676974616c6f6365616e2e636f6d
-tg://proxy?server=homar.ir.mehriyavari.ir.sinanews.ir.taxa.ir.khoushetalaei.ir.ghasedakmorgh.ir.drhamidrezaeghbali.com.b_alkonsahand.com.iranmehraz.ir.novbardairy.com.dashtediba.com.ali-noori.ir.radinedalat.com.maherdookht.ir.arazplay-download.ir.blentamotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e2816746865677561726469616e2e636f6d
+tg://proxy?server=195.15.202.6&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=i.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.paisawapas.space&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
+tg://proxy?server=49.13.164.124&port=6970&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=212.69.14.221&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=5.9.231.185&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q
