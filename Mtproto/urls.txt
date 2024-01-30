@@ -1,5 +1,5 @@
-tg://proxy?server=159.65.206.120&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d
-tg://proxy?server=109.104.153.187&port=443&secret=ee64fe05979c7d468c90952364a0f3754d666172616b61762e636f6d
-tg://proxy?server=parastooparvaz.ir.samplingart.com.danesh-rayaneh.com.toskal.ir.takhfifyabb.ir.rfman.ir.nardoonemarket.com.mahdibahrami.ir.ferrara.ir.tunnelfp.com.pedaseng.com.organiicproducts.ir.aryaborhan.ir.ha_ppyclan.ir.ntabloo.ir.azinkala.ir.isacomotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=47.242.59.239&port=443&secret=eec0abce42a861238a33e22f6d70f08443617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=185.17.0.166&port=700&secret=ee72881e9e1e7d1ff9647913616d37aeae636f6e736f6c652e6c696768746e6f64652e636f6d
+tg://proxy?server=63.250.59.184&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e6b65746161626f6e6c696e652e636f6d
+tg://proxy?server=slack.stylesoratregoin.org&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
+tg://proxy?server=94.130.56.37&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574
+tg://proxy?server=5.28.193.10&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
+tg://proxy?server=c--------l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---ll----l---------l.l.l.l.l.l.l.l.l.l.l.l.ariaelevator.sbs&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
