@@ -1,5 +1,5 @@
-tg://proxy?server=195.201.252.8&port=7543&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=mdyr.ir.hadafsoo.ir.pars-power.com.atlaszeus.com.kazemi-watchgallery.ir.atiyehmehr.ir.alborzins.net.arshiagasht.ir.sadaffist.ir.sarbotri.com.zoomfort.com.negaresheasemani.ir.reyhanpainter.ir.doostanekhub.ir.whitegold.ir.heroaluminium.ir.mobileshoma.mobi&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=49.13.54.117&port=443&secret=ee0000000000000000000000000000000076616e2e6e616a76612e636f6d
-tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.realsimple.space&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=143.244.197.17&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6b65746161626f6e6c696e652e636f6d
+tg://proxy?server=52.5.216.190&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020
+tg://proxy?server=159.69.219.124&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.tshaonline.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=49.13.171.62&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=43.207.97.208&port=7663&secret=ee71d73c07ccb595662f96e48b74b6bb286177732e616d617a6f6e2e636f6d
