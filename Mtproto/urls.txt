@@ -1,5 +1,5 @@
-tg://proxy?server=136.243.235.225&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddnss.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz---hsg.ghostingnew.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f
-tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsx.iioo11iii.site&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=65.21.202.50&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=185.22.153.240&port=443&secret=ee776c8a49365e3ec87e7ab1986e34b6987777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=accshws.mymom.info&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d
+tg://proxy?server=bidex.ir.sayeroshanco.com.shi_ravarantst.ir.rahamusic.com.vesalcarpet.com.fars-cec.com.iranr.com.topcvs.ir.samaeducational.com.toosmashhadcarpet.c_om.elevenstudio.ir.etcui.ir.ghadirstonegroup.com.sho_malberenj.com.khabarresan.com.bimehkeshavarzi.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
+tg://proxy?server=5.42.87.215&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d
+tg://proxy?server=5.28.193.48&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
+tg://proxy?server=108.165.254.123&port=14292&secret=ee509feff0add1944493528706088bc26e617a7572652e6d6963726f736f66742e636f6d
