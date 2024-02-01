@@ -1,5 +1,5 @@
-tg://proxy?server=accshws.mymom.info&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d
-tg://proxy?server=bidex.ir.sayeroshanco.com.shi_ravarantst.ir.rahamusic.com.vesalcarpet.com.fars-cec.com.iranr.com.topcvs.ir.samaeducational.com.toosmashhadcarpet.c_om.elevenstudio.ir.etcui.ir.ghadirstonegroup.com.sho_malberenj.com.khabarresan.com.bimehkeshavarzi.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
-tg://proxy?server=5.42.87.215&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d
-tg://proxy?server=5.28.193.48&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
-tg://proxy?server=108.165.254.123&port=14292&secret=ee509feff0add1944493528706088bc26e617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=212.69.14.89&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
+tg://proxy?server=49.13.127.212&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ
+tg://proxy?server=128.140.87.147&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==
+tg://proxy?server=2z2.ir.cafehatef.com.cpeco.org.dinat_ech.ir.khodroparts.com.tunn_elfalatpars.com.nosrat3.ir.ajashohada.ir.fasaei.ir.azartire.ir.tebin.ir.hojjatigro_up.com.plusko.ir.pmocustomers.ir.visairaq.com.ntsac.ir.irashan.com.sinanews.ir.iproc.ir.bergueryosuf.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=slack.stylesoratregoin.org&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
