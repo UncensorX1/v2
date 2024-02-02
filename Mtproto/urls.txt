@@ -1,5 +1,5 @@
-tg://proxy?server=5.28.193.7&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
-tg://proxy?server=moon.imoon77.com&port=443&secret=ee0c22364caacad20232f7d59bfc6a1cc37777772e6769746875622e636f6d
-tg://proxy?server=54.173.45.204&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020
-tg://proxy?server=i.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.stfalcon.space&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=159.69.219.124&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=5.75.138.193&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=mizbanex.com.frank-audio.ir.karamadhesab-iranian.com.heyatmohebin.ir.cpeco.org.abarkam.com.pgacha_rter.com.karyabinegin.ir.azar-tircheh.ir.abakiana.com.technogreen.ir.alborzinsurance.org.silicontech.ir.css-sprite.ir.parmedco.ir.zenix.ir.sepahanstore.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=learning.movafagh.gift.nokia.samsung.apple.tallison.com&port=443&secret=eed4b05957e79a5ab5fd3bf9ed30cf590579616e6465782e636f6d
+tg://proxy?server=spst.ir.foodle.ir.fojanarghavan.com.vitveb.ir.isfahanbim.com.dandan-pezeshki.com.zagrossvethospital.com.telecomsoft.ir.tiragesazeh.com.mydiginet.ir.joombarg.com.ihelma.com.epano.ir.aryasan-pos.ir.pishbordgroup.com.salescafe.ir.mahashop.ir.kavirsanat.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=mpsadra.ir.groupedu.ir.skc.aero.sarbotri.com.mobilekade.com.acershop.ir.fgrco.com.marjanhairgallery.com.dataqueez.ir.khalabanrezaahmadi.ir.parhoontarh.com.ghalishoe_emarkazi.ir.bandeh.com.nilperc.ir.ranginehnaghsh.com.aryasan-st.ir.atarihosseini.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
