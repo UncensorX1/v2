@@ -1,5 +1,5 @@
-tg://proxy?server=164.92.210.129&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=49.13.17.146&port=443&secret=ee00000000000000000000000000000000666172616b61762e636f6d
-tg://proxy?server=n.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.coo.uk-charchter-google-digiakala-g-messanger-meaan.rogbyprovider-00.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f
-tg://proxy?server=77.246.103.217&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6dee1603010200010001fc030386e24c3addee16
-tg://proxy?server=fcall.ir.filmforoshi.ir.mashhadsoghat.com.sepidanroseplastic.com.arna-trading.com.hakimsadra.com.yazdeemr_ooz.ir.ahvazsms.ir.iraniraqbiz.com.softnurse.ir.rafanco.ir.ancc.ir.chargepay.ir.smarterco.ir.professorghassemi.com.logoselt.com.kafshmellistore.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=185.39.18.123&port=80&secret=ee12710b287d325822621b9b4ce40d09957777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=l-frank.com.eyephic.ir.falcondo_cmovie.ir.plaskala.com.mas_jedkar.ir.s_iesco.ir.amanatbartehran.ir.pmo-co.com.7decorate.ir.to_u_rlin.com.yufile.ir.hpi724.ir.sino_vision.ir.tbe.ir.zagros_-tour.ir.iso9001-hse.ir.azarbaba.ir.iranmobaddel.com.shikvilla.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=95.217.208.64&port=443&secret=ee0000000000000000000000000000000076616e2e6e616a76612e6368
+tg://proxy?server=142.132.201.215&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=5.28.193.4&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
