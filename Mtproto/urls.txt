@@ -1,5 +1,5 @@
-tg://proxy?server=95.216.106.84&port=443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574
-tg://proxy?server=104.248.206.129&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=5.28.193.26&port=443&secret=eed41d8cd98f00b204e9800998ecf8322e7777772e676f6f676c652e636f6d
-tg://proxy?server=109.104.153.187&port=443&secret=ee64fe05979c7d468c90952364a0f3754d666172616b61762e636f6d
-tg://proxy?server=theletsome.ir&port=80&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
+tg://proxy?server=49.13.204.63&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.bestfulfill.sbs&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
+tg://proxy?server=45.156.22.118&port=443&secret=eed4b05957e79a5ab5fd3bf9ed30cf590579616e6465782e636f6d
+tg://proxy?server=ferdowsisummschool.ir.viratoys.ir.h_arajiiran_ian.com.shahrdarirozveh.ir.shirazrobot.ir.emileh.ir.ag_rimec.ir.parsitak.com.ronaskadeh.ir.alobosch.ir.afrandco.ir.solfamooz.ir.drjavidsamadi.ir.a_risma_n-co.com.virazin.com.parsagasht24.ir.reezocar.beauty&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=mokran.ir.niazshop.ir.intera_ctive-physics.ir.ipcl_ick.ir.seirangasht.ir.parsianlot_us_-ib.net.i-lux.ir.farsportal.com.automation7.com.onlinweb.com.injayadbegir.com.darsoketab.com.iranboo.ir.iranprofessionaldesigners.com.nasimeatr.com.refahmarket.beauty&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
