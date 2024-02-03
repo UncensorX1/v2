@@ -1,5 +1,5 @@
-tg://proxy?server=45.156.22.172&port=4433&secret=7hEVIjNEVWZ3iJmqu8zd7v9zMy5hbWF6b25hd3MuY29t
-tg://proxy?server=188.166.104.216&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=kbbm.ir.tortorak.com.jkmserv.ir.herisgallery.ir.hamyariayandegan.ir.kbbm.ir.mobilecenterparsian.ir.haripater.ir.advertisingphotography.ir.neoniroo.com.tech-green.com.emdadcartechnic.com.sandbad-shop.ir.mesbah40.ir.tashkilat57.ir.sorur.net.pardehban.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=f---------l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---------ll------l.l.l.l.l.l.l.l.l.l.l.l.globalconnect.sbs&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=209.38.224.234&port=443&secret=eec80ff604fa45408f1d152624d3bffcf262616c61642e6972
+tg://proxy?server=74.63.233.54&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
+tg://proxy?server=94.130.169.92&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
+tg://proxy?server=65.108.94.145&port=443&secret=ee9903e37abd7a0a6f908929ab318c322573332e666173742e636f6d
+tg://proxy?server=139.59.171.80&port=8080&secret=ee974edd734ff40525d5288c785a1cd5d17765622e62616c652e6972
