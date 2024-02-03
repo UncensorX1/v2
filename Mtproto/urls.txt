@@ -1,5 +1,5 @@
-tg://proxy?server=91.239.53.123&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
-tg://proxy?server=88.198.215.148&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=24.199.104.6&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d
-tg://proxy?server=vazhegoon.ir.signal.ir.aghayezaban.ir.azerba_ij_anstudiescenter.org.dr_angaji.com.mahyarpm.com.aryasan-go.ir.setkon.ir.ishkafpw.ir.m_oeinsup_p_ort.ir.aghighad.ir.srt.ir.holdersky.com.tadarok.net.f_idarco.co.kharidekala.ir.microsoftlab.ir.22bahmanmah.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=e.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.ww-beauty.beauty&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=164.92.210.129&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=49.13.17.146&port=443&secret=ee00000000000000000000000000000000666172616b61762e636f6d
+tg://proxy?server=n.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.coo.uk-charchter-google-digiakala-g-messanger-meaan.rogbyprovider-00.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f
+tg://proxy?server=77.246.103.217&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6d666172616b61762e636f6dee1603010200010001fc030386e24c3addee16
+tg://proxy?server=fcall.ir.filmforoshi.ir.mashhadsoghat.com.sepidanroseplastic.com.arna-trading.com.hakimsadra.com.yazdeemr_ooz.ir.ahvazsms.ir.iraniraqbiz.com.softnurse.ir.rafanco.ir.ancc.ir.chargepay.ir.smarterco.ir.professorghassemi.com.logoselt.com.kafshmellistore.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
