@@ -1,5 +1,5 @@
-tg://proxy?server=74.63.233.54&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
-tg://proxy?server=94.130.169.92&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
-tg://proxy?server=65.108.94.145&port=443&secret=ee9903e37abd7a0a6f908929ab318c322573332e666173742e636f6d
-tg://proxy?server=139.59.171.80&port=8080&secret=ee974edd734ff40525d5288c785a1cd5d17765622e62616c652e6972
+tg://proxy?server=91.239.53.123&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
+tg://proxy?server=88.198.215.148&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=24.199.104.6&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d
+tg://proxy?server=vazhegoon.ir.signal.ir.aghayezaban.ir.azerba_ij_anstudiescenter.org.dr_angaji.com.mahyarpm.com.aryasan-go.ir.setkon.ir.ishkafpw.ir.m_oeinsup_p_ort.ir.aghighad.ir.srt.ir.holdersky.com.tadarok.net.f_idarco.co.kharidekala.ir.microsoftlab.ir.22bahmanmah.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=e.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.ww-beauty.beauty&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
