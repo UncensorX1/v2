@@ -1,5 +1,5 @@
-tg://proxy?server=price-for-ordinary-life.ko-nic.tienda&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
-tg://proxy?server=45.147.201.190&port=8443&secret=eeee522ac0f3b0cb2a274de66b56e55ae5617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=i.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.mordorintelligence.sbs&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=49.13.133.100&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=45.85.105.126&port=443&secret=dd4cf9d9103e558ddbe1b73a47771c29f7
+tg://proxy?server=37.48.118.69&port=4343&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
+tg://proxy?server=95.211.186.230&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
+tg://proxy?server=web.iranecar.api-soulbots1.net&port=443&secret=ee0000000000000000000000000000000063646e2e79656b74616e65742e636f6d
+tg://proxy?server=165.22.95.252&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=newdemo.ir.damnoshan.ir.apaelevator.ir.neginalmascarpet.com.hamlift.ir.fhammami.ir.payammoazami.ir.lamerd.ir.matpagroup.com.novinultrasonic.com.nazerchap.com.salmandan-taravat.com.sqs.ir.taher_ianpress.ir.meybodkhabar.ir.novbardairy.com.sarayedanesh.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
