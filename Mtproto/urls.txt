@@ -1,5 +1,5 @@
-tg://proxy?server=89.44.198.163&port=10&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=77.105.146.198&port=443&secret=ee000000000000000000000000000000016e616a76612e636f6d1b4580c040800040004000000000000000000000000000000000001000000000000000000000000000000000000000
-tg://proxy?server=e----l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---ll----l---------l.l.l.l.l.l.l.l.l.l.l.l.application-mine.cfd&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=139.162.153.25&port=443&secret=eec210ca2aa6d3d81670ed32899925445b626c6f672e636c6f7564666c6172652e636f6d
-tg://proxy?server=139.162.144.254&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d
+tg://proxy?server=5.75.136.251&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=5.178.105.130&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=isipo.ir.setarejahanro.com.giah1.com.nournews.ir.saipayadak.org.nikalyaf.com.kharidekala.ir.king-movies.ir.karen-tk.com.zankoshop.ir.masoodsepehr.com.bazarmozayedeh.ir.arshia_bon.ir.2020eshop.ir.smodaresi.ir.goodfollower.ir.karakar.ir.mohlinpersia.cloud&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d
+tg://proxy?server=49.13.198.38&port=7543&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddnss.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz---hsg.ghostingnew.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f
