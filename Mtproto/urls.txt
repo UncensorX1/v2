@@ -1,5 +1,5 @@
-tg://proxy?server=37.48.118.69&port=4343&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
-tg://proxy?server=95.211.186.230&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
-tg://proxy?server=web.iranecar.api-soulbots1.net&port=443&secret=ee0000000000000000000000000000000063646e2e79656b74616e65742e636f6d
-tg://proxy?server=165.22.95.252&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=newdemo.ir.damnoshan.ir.apaelevator.ir.neginalmascarpet.com.hamlift.ir.fhammami.ir.payammoazami.ir.lamerd.ir.matpagroup.com.novinultrasonic.com.nazerchap.com.salmandan-taravat.com.sqs.ir.taher_ianpress.ir.meybodkhabar.ir.novbardairy.com.sarayedanesh.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=bmskala.ir.rata.ir.jaieze.com.sangvareshomal.ir.ariana-aikido.com.gonabadpl.ir.footofan0.ir.irimc-onp.org.fuudfast.com.razigaran.com.imatrd.com.sk-electronic.co.ir.reyhaneshop.biz.ayandetazan.com.pnec.co.ir.tahviyehshop.com.ofogh-energy.com.komajdon.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d
+tg://proxy?server=49.13.135.20&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=amirarshia.ir.siavashmirkhani.com.pardisiha.com.farasaman.net.site-vi_ew.ir.kwpa-app.com.sreport.ir.p_apillon-pet.ir.nof_eorganic.com.tsalvand.com.egna.ir.unlabelledd.net.centeroff.ir.kanganmall.ir.arc_san.ir.pezhvakartgroup.com.blentacycles.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d
+tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.n.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.i_am.the_inte-et.special_hsz---hsh.pooo-00.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f
+tg://proxy?server=94.130.66.173&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==
