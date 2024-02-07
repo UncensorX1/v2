@@ -2,8 +2,8 @@ name: mtprotosend
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "15 5-19 * * *"
+  # schedule:
+  # - cron: "15 5-19 * * *"
   
 jobs:
   job1:
