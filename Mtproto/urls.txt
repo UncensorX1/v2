@@ -1,5 +1,5 @@
-tg://proxy?server=cloudflare.com.jokia.con.ir.co.uk.do_yo.want_to.with.this.www.microsoft.hbhb-b7hb.sbs&port=7443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
-tg://proxy?server=185.17.0.78&port=443&secret=ee05cf877201ce9cc76582ada3cd23da406d792e736861706172616b2e6972
-tg://proxy?server=116.203.107.7&port=443&secret=7kQWAEQWAEQARBYEQWAARBZkZG4ueWVrdGFuZXQuY29tYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=142.132.237.47&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=929ddd1.xn--x1h.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.xn--51h.1.1.1.1.1.1.1-1-1-1.xn--u0h.666.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1--1.1_1_1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.absolutepcbassembly.buzz&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
+tg://proxy?server=139.162.43.55&port=443&secret=ee5fd1927094fda6f4e53559986de6270a617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=116.202.100.204&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
+tg://proxy?server=nashr24.ir.tosan-ls.com.shafashiraz.ir.princesystem.ir.parisanclinic.ir.crystaline.ir.nettaz.ir.controlsystems.ir.mcicharge.com.navidmarv.ir.arzaaankade.ir.tural-sport.com.loool.ir.snay.ir.xn--ngbn68b.net.likexweb.ir.khodroexpress.com.mohlinpersia.cloud&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=47.243.32.232&port=443&secret=ee03446b99154187b82b3ca2e01a9de1a3617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=172.105.65.12&port=7095&secret=eeb7ce690de0c8cf6cd432d58a4fb5b01c7777772e70636d61672e636f6d
