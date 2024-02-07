@@ -1,5 +1,5 @@
-tg://proxy?server=77.72.18.67&port=443&secret=ee643ce9490ec2a7f6c4cfa686afad39556d736e2e636f6d
-tg://proxy?server=8.218.63.4&port=443&secret=eebefaf1fe832c18c7f5d23c45a6651068617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=165.232.82.32&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=128.140.108.84&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=83.149.100.106&port=1&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=212.33.202.3&port=80&secret=ee67dd77d8f0a83940b066b5e97254a7197777772e6170706c652e636f6d
+tg://proxy?server=baghmirani.com.hacoupian.press.vandalive.ir.ebort.ir.food_lehost.com.richdad.ir.investiniran.ir.tansuu.ir.artirans_hop.com.torsh_iz-info.ir.ab_niki.com.chaponashr.org.css-sprite.ir.sh_etabhub.ir.obgiran.com.rozankala.com.webpand.ir.powerfulliranian.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=159.89.99.39&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d
+tg://proxy?server=128.140.25.242&port=80&secret=ee7e8dd80f43f0f96cea61ba1b34ef24b0676f64616464792e636f6d
+tg://proxy?server=62.84.103.39&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
