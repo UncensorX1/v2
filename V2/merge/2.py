@@ -8,13 +8,16 @@ output_file = 'V2/merged_file.txt'
 with open(output_file, 'w') as outfile:
     # Iterate through each input file
     for file_name in input_files:
-        # Open each input file in read mode
-        with open(file_name, 'r') as infile:
-            # Read the content of the input file
-            content = infile.read()
-            
-            # Write the content to the output file
-            outfile.write(content)
-            
-            # Add a newline between the contents of different files
-            outfile.write('\n')
+        try:
+            # Open each input file in read mode
+            with open(file_name, 'r') as infile:
+                # Read the content of the input file
+                content = infile.read()
+                
+                # Write the content to the output file
+                outfile.write(content)
+                
+                # Add a newline between the contents of different files
+                outfile.write('\n')
+        except FileNotFoundError:
+            print(f"File {file_name} not found. Skipping...")

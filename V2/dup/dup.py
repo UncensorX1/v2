@@ -14,7 +14,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -39,7 +39,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -64,7 +64,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -89,7 +89,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -114,7 +114,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -140,7 +140,7 @@ completed_lines_hash = set()
 
 input_file = open(input_file_path, "r")
 output_file_1 = open(output_file_path_1, "w")
-output_file_2 = open(output_file_path_2, "w")
+# output_file_2 = open(output_file_path_2, "w")
 
 for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
@@ -177,7 +177,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -205,7 +205,7 @@ for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
     if hashValue not in completed_lines_hash:
         output_file_1.write(line)
-        output_file_2.write(line)
+        # output_file_2.write(line)
         completed_lines_hash.add(hashValue)
 
 output_file_1.close()
@@ -229,7 +229,7 @@ completed_lines_hash = set()
 
 input_file = open(input_file_path, "r")
 output_file_1 = open(output_file_path_1, "w")
-output_file_2 = open(output_file_path_2, "w")
+# output_file_2 = open(output_file_path_2, "w")
 
 for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()

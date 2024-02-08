@@ -2,7 +2,7 @@ import os
 
 os.system('python V2/from64/start.py')
 os.system('python V2/fromsite/start.py')
-os.system('python V2/fromtele/1.py')
+# os.system('python V2/fromtele/1.py')
 
 os.system('python V2/merge/1.py && python V2/merge/2.py && python V2/merge/3.py')
 os.system('python V2/seprate/start.py')

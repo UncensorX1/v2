@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <button onclick="copyAllLines()">Copy All</button>
     <div id="randomLines"></div>
+    
 
     <script>
         // Function to fetch random lines from a text file
@@ -43,6 +45,18 @@
         function displayLines(lines) {
             const randomLinesElement = document.getElementById('randomLines');
             randomLinesElement.innerHTML = lines.join('<br>');
+        }
+
+        // Function to copy all lines
+        function copyAllLines() {
+            const randomLinesElement = document.getElementById('randomLines');
+            const range = document.createRange();
+            range.selectNode(randomLinesElement);
+            window.getSelection().removeAllRanges();
+            window.getSelection().addRange(range);
+            document.execCommand('copy');
+            window.getSelection().removeAllRanges();
+            alert('All lines copied to clipboard!');
         }
         // Call the function to get random lines from VmessF.txt
         getRandomLinesFromFile('TuicL.txt', 50);
